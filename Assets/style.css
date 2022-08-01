@@ -68,7 +68,7 @@ p {
     font-size: 30px;
 }
 h1 {
-    font-size: 50px;
+    font-size: 80px;
 }
 #dodo {
     margin-left: 50px;
@@ -76,11 +76,21 @@ h1 {
 #btn_1 {
     border-radius: 50px;
     background: #FF4066;
-    padding: 1px 1px;
+    padding: 10px;
+    color: white;
     border: none;
-    size: 30px;
+    size: 20px;
+    cursor: pointer;
 }
-
+#touch {
+    padding: 10px;
+    color: white;
+    background: #000;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    size: 20px;
+}
 
 
 
