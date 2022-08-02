@@ -7,7 +7,9 @@
 
 body {
     background-color: #F7E9DB;
+    
 }
+
 nav {
     background-color: white;
     height: 80px;
@@ -65,7 +67,7 @@ checkbtn{
 
 }
 p {
-    font-size: 30px;
+    font-size: 18px;
 }
 h1 {
     font-size: 80px;
@@ -91,12 +93,15 @@ h1 {
     cursor: pointer;
     size: 20px;
 }
-
-
-
-
-
-
+#grow {
+    color: #FF4066;
+}
+#background-image {
+    display: flex;
+    margin-left: 100px;
+    padding-top: 50px;
+    
+}
 
 
 
